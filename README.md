@@ -1,4 +1,4 @@
-# SHAREIT
+# ShareFile
 Android Application for File transfer
 
 # File Extentations
